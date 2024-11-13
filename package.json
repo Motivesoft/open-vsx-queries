@@ -1,0 +1,25 @@
+{
+  "name": "open-vsx-queries",
+  "version": "1.0.0",
+  "description": "Run queries against the Open VSX API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Motivesoft/open-vsx-queries.git"
+  },
+  "keywords": [
+    "open",
+    "vsx",
+    "registry",
+    "marketplace"
+  ],
+  "author": "Ian Brown",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Motivesoft/open-vsx-queries/issues"
+  },
+  "homepage": "https://github.com/Motivesoft/open-vsx-queries#readme"
+}
