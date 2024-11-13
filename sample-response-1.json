@@ -1,0 +1,44 @@
+{
+  "offset": 0,
+  "totalSize": 2,
+  "extensions": [
+    {
+      "url": "https://open-vsx.org/api/sample-publisher/my-extension-1",
+      "files": {
+        "download": "https://open-vsx.org/api/sample-publisher/my-extension-1/1.1.0/file/sample-publisher.my-extension-1-1.1.0.vsix",
+        "icon": "https://open-vsx.org/api/sample-publisher/my-extension-1/1.1.0/file/icon.png",
+        "sha256": "https://open-vsx.org/api/sample-publisher/my-extension-1/1.1.0/file/sample-publisher.my-extension-1-1.1.0.sha256",
+        "signature": "https://open-vsx.org/api/sample-publisher/my-extension-1/1.1.0/file/sample-publisher.my-extension-1-1.1.0.sigzip",
+        "publicKey": "https://open-vsx.org/api/-/public-key/a8a619bc-1921-4540-af43-250d33e1c2b6"
+      },
+      "name": "my-extension-1",
+      "namespace": "sample-publisher",
+      "version": "1.1.0",
+      "timestamp": "2024-11-12T15:14:59.781917Z",
+      "verified": true,
+      "downloadCount": 223,
+      "displayName": "My first extension",
+      "description": "An example extension",
+      "deprecated": false
+    },
+    {
+      "url": "https://open-vsx.org/api/sample-publisher/my-extension-2",
+      "files": {
+        "download": "https://open-vsx.org/api/sample-publisher/my-extension-2/1.0.1/file/sample-publisher.my-extension-2-1.0.1.vsix",
+        "icon": "https://open-vsx.org/api/sample-publisher/my-extension-2/1.0.1/file/icon.png",
+        "sha256": "https://open-vsx.org/api/sample-publisher/my-extension-2/1.0.1/file/sample-publisher.my-extension-2-1.0.1.sha256",
+        "signature": "https://open-vsx.org/api/sample-publisher/my-extension-2/1.0.1/file/sample-publisher.my-extension-2-1.0.1.sigzip",
+        "publicKey": "https://open-vsx.org/api/-/public-key/c3abf6a9-24e7-4b12-b77a-1c81ad618e01"
+      },
+      "name": "my-extension-2",
+      "namespace": "sample-publisher",
+      "version": "1.0.1",
+      "timestamp": "2024-11-07T10:10:26.658672Z",
+      "verified": true,
+      "downloadCount": 388,
+      "displayName": "My second extension",
+      "description": "A second example extension",
+      "deprecated": false
+    }
+  ]
+}
